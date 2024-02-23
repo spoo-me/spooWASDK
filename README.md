@@ -22,9 +22,9 @@
 <summary>📖 Table of Contents</summary>
 
 - [✨ Features](#-features)
-- [⬇️ Download Links](#-download-links)
+- [⬇️ Download Links](#%EF%B8%8F-download-links)
 - [📝 Feedback / Issues](#-feedback--issues)
-- [💡 What's next](#-what's-next)
+- [💡 What's next](#-whats-next)
 - [👀 Visual Previews](#-visual-previews)
 
 </details>
