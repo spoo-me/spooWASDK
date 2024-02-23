@@ -24,7 +24,7 @@
 - [✨ Features](#-features)
 - [⬇️ Download Links](#-download-links)
 - [📝 Feedback / Issues](#-feedback--issues)
-- [💡 what's next](#-what's-next)
+- [💡 What's next](#-what's-next)
 - [👀 Visual Previews](#-visual-previews)
 
 </details>
@@ -74,13 +74,15 @@ Bugs are logged using the github issue system. To report a bug, simply open a [n
 
 <br>
 
-## 💡 what's next
+## 💡 What's next
 
 - Custom Accent color on QR Codes
 - URL History
 - Emoji Alias Support
 - App Settings
-      
+
+<br>
+
 ## 👀 Visual Previews
 
 <table>
