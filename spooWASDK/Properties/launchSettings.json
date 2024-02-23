@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "spooWASDK (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "spooWASDK (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
